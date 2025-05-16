@@ -1,0 +1,18 @@
+{
+  "navigation": {
+    "not_initialized": {
+      "level": "error",
+      "name": "NAVIGATE_NOT_INITIALIZED",
+      "path": "src/store/services/history",
+      "message": "Navigate function not initialized yet."
+    }
+  },
+  "api": {
+    "refresh_token": {
+      "level": "error",
+      "name": "FAILED_TO_FETCH_REFRESH_TOKEN",
+      "path": "src/store/services/http.client",
+      "message": "Error to fetch refresh token"
+    }
+  }
+}

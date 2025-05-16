@@ -1,0 +1,16 @@
+node_modules/
+dist/
+build/
+coverage/
+.vite/
+.vite-cache/
+.next/
+out/
+public/
+*.min.js
+*.config.js
+*.config.cjs
+*.config.mjs
+.env
+.env.*
+.vscode/
